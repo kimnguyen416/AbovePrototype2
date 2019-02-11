@@ -18,13 +18,18 @@ Programming Tutorials Used:
 
 Modeling animals in Maya: 
 - https://forums.cgsociety.org/t/modeling-animals-in-maya/776839
+
 Modeling characters:
 - https://www.3dartistonline.com/news/2015/07/master-maya-characters-in-20-steps/
+
 Textures: 
 - https://www.textures.com/
+
 Maya Documentation:
 - https://knowledge.autodesk.com/support/maya/getting-started/caas/simplecontent/content/maya-documentation.html
+
 Unreal Documentation:
 - https://docs.unrealengine.com/en-us/
+
 Unreal Academy Tutorials: 
 - https://academy.unrealengine.com/
