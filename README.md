@@ -1,6 +1,6 @@
 # AbovePrototype2
 
-Tutorials Used:
+Programming Tutorials Used:
 
 - https://www.youtube.com/watch?v=qzcqmVcV9IQ&t=41s
 - https://www.youtube.com/watch?v=v3tPHbe_uBA
@@ -15,3 +15,16 @@ Tutorials Used:
 - https://www.youtube.com/watch?v=8GciQU5ZYrg
 - https://www.youtube.com/watch?v=PXmv91F0fs4
 - https://www.youtube.com/watch?v=l1tpeVIcaGI&t=184s
+
+Modeling animals in Maya: 
+- https://forums.cgsociety.org/t/modeling-animals-in-maya/776839
+Modeling characters:
+- https://www.3dartistonline.com/news/2015/07/master-maya-characters-in-20-steps/
+Textures: 
+- https://www.textures.com/
+Maya Documentation:
+- https://knowledge.autodesk.com/support/maya/getting-started/caas/simplecontent/content/maya-documentation.html
+Unreal Documentation:
+- https://docs.unrealengine.com/en-us/
+Unreal Academy Tutorials: 
+- https://academy.unrealengine.com/
